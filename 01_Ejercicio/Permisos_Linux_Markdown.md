@@ -1,3 +1,6 @@
+![Salida](ls -lah captura.png)
+
+
 ### README.txt (`-rw-r--r--`) → 644
 
   Permiso      Dueño   Grupo   Otros
@@ -5,6 +8,7 @@
   Lectura       Sí      Sí      Sí
   Escritura     Sí      No      No
   Ejecución     No      No      No
+
 
 ### docs (`drwxr-xr-x`) → 755
 
