@@ -1,4 +1,4 @@
-![Salida](ls -lah captura.png)
+![Salida](C:\LINUX3C\01_Ejercicio\ls -lah captura.png)
 
 
 ### README.txt (`-rw-r--r--`) → 644
